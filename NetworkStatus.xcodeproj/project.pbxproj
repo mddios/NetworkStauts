@@ -21,6 +21,7 @@
 		60FA01A91C9FDBD200B532E9 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 60FA018B1C9FDBD200B532E9 /* AFURLResponseSerialization.m */; };
 		60FA01AA1C9FDBD200B532E9 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 60FA018D1C9FDBD200B532E9 /* AFURLSessionManager.m */; };
 		60FA01B81C9FDC6300B532E9 /* NetworkTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 60FA01B71C9FDC6300B532E9 /* NetworkTools.m */; };
+		60FA01BA1CA03A1D00B532E9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 60FA01B91CA03A1D00B532E9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		60FA018D1C9FDBD200B532E9 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
 		60FA01B61C9FDC6300B532E9 /* NetworkTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkTools.h; sourceTree = "<group>"; };
 		60FA01B71C9FDC6300B532E9 /* NetworkTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkTools.m; sourceTree = "<group>"; };
+		60FA01B91CA03A1D00B532E9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		60FA01111C997F0000B532E9 /* NetworkStatus */ = {
 			isa = PBXGroup;
 			children = (
+				60FA01B91CA03A1D00B532E9 /* README.md */,
 				60FA017F1C9FDBD200B532E9 /* AFNetworking */,
 				60FA014A1C9A49A800B532E9 /* apple */,
 				60FA01151C997F0000B532E9 /* AppDelegate.h */,
@@ -221,6 +224,7 @@
 				60FA01171C997F0000B532E9 /* AppDelegate.m in Sources */,
 				60FA01A51C9FDBD200B532E9 /* AFHTTPSessionManager.m in Sources */,
 				60FA01AA1C9FDBD200B532E9 /* AFURLSessionManager.m in Sources */,
+				60FA01BA1CA03A1D00B532E9 /* README.md in Sources */,
 				60FA01B81C9FDC6300B532E9 /* NetworkTools.m in Sources */,
 				60FA014D1C9A49A800B532E9 /* Reachability.m in Sources */,
 				60FA01A61C9FDBD200B532E9 /* AFNetworkReachabilityManager.m in Sources */,
